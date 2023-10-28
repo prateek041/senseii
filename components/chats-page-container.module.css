@@ -1,0 +1,110 @@
+.chatChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 235px;
+  height: 109px;
+}
+.youHitYour {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 214px;
+}
+.chat {
+  position: absolute;
+  top: 88px;
+  left: 0;
+  width: 235px;
+  height: 109px;
+}
+.chat1,
+.chatInner,
+.chatItem {
+  position: absolute;
+  width: 235px;
+  height: 43px;
+}
+.chatItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.chat1,
+.chatInner {
+  top: 218px;
+  left: 106px;
+}
+.chatInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  height: 223px;
+}
+.todayIsTuesday {
+  margin-block-start: 0;
+  margin-block-end: 36px;
+}
+.thenYouCan {
+  margin: 0;
+}
+.hitTheGym,
+.todayIsTuesdayContainer {
+  position: absolute;
+  top: 14px;
+  left: 12px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 214px;
+  height: 117px;
+}
+.hitTheGym {
+  top: 146px;
+  height: 66px;
+}
+.chat2,
+.rectangleIcon {
+  position: absolute;
+  top: 282px;
+  left: 0;
+  width: 235px;
+  height: 223px;
+}
+.rectangleIcon {
+  top: 0;
+  border-radius: var(--br-xl);
+  width: 185px;
+  height: 56px;
+}
+.senseiHowWell {
+  position: absolute;
+  top: 12px;
+  left: 17px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 168.47px;
+  height: 44.28px;
+}
+.chat3,
+.chatsPage1 {
+  position: absolute;
+  top: 0;
+  left: 156px;
+  width: 185.47px;
+  height: 56.28px;
+}
+.chatsPage1 {
+  left: 0;
+  width: 341.47px;
+  height: 505px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

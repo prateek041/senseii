@@ -1,0 +1,34 @@
+.image3Icon {
+  position: absolute;
+  top: 221px;
+  left: 0;
+  width: 314px;
+  height: 99px;
+  object-fit: cover;
+}
+.companion {
+  color: var(--color-gray);
+}
+.personalAiCompanionContainer {
+  position: absolute;
+  top: 311px;
+  left: 18px;
+  letter-spacing: 0.09em;
+  line-height: 104%;
+  font-weight: 600;
+  display: inline-block;
+  width: 705px;
+  height: 304px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+}
+.intro {
+  position: absolute;
+  top: 140px;
+  left: 190px;
+  width: 925px;
+  height: 615px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

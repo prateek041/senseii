@@ -1,0 +1,146 @@
+.backgroundChild,
+.backgroundItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-thistle);
+  width: 1900px;
+  height: 2337px;
+}
+.backgroundItem {
+  top: 52px;
+  left: 136px;
+  border-radius: var(--br-31xl) var(--br-31xl) 0 0;
+  background-color: var(--color-white);
+  width: 1624px;
+}
+.background,
+.logoIcon {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  width: 1728px;
+  height: 1169px;
+}
+.logoIcon {
+  top: 137px;
+  left: 175px;
+  width: 186px;
+  height: 66px;
+  object-fit: cover;
+}
+.comingSoonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-black);
+  width: 250px;
+  height: 69px;
+}
+.comingSoonItem {
+  position: absolute;
+  top: 9px;
+  left: 189px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 50px;
+  height: 50px;
+}
+.comingSoon1 {
+  position: absolute;
+  top: 24px;
+  left: 33px;
+  letter-spacing: 0.09em;
+  line-height: 104%;
+  font-weight: 600;
+}
+.futureIcon {
+  position: absolute;
+  top: 18px;
+  left: 199px;
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+}
+.comingSoon,
+.sideImageIcon {
+  position: absolute;
+  top: 766px;
+  left: 123px;
+  width: 250px;
+  height: 69px;
+}
+.sideImageIcon {
+  top: 164px;
+  left: 1190px;
+  border-radius: 0 var(--br-31xl) var(--br-31xl) 0;
+  width: 507px;
+  height: 841px;
+  object-fit: cover;
+}
+.innerFramePlaceScreenInsi {
+  position: absolute;
+  top: 6px;
+  left: 9px;
+  border-radius: var(--br-21xl);
+  width: 407px;
+  height: 844px;
+  overflow: hidden;
+}
+.sendMessageChild,
+.sendMessageItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 333px;
+  height: 48px;
+}
+.sendMessageItem {
+  top: 7px;
+  left: 291px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-thistle);
+  width: 34px;
+  height: 34px;
+}
+.paperPlaneIcon {
+  position: absolute;
+  top: 11px;
+  left: 297px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.iphoneUi,
+.sendMessage {
+  position: absolute;
+  top: 523px;
+  left: 4px;
+  width: 333px;
+  height: 48px;
+}
+.iphoneUi {
+  top: 242px;
+  left: 42px;
+  width: 341.47px;
+  height: 571px;
+}
+.iphone11ProXMockup {
+  position: absolute;
+  top: 228px;
+  left: 1150px;
+  width: 343px;
+  height: 712px;
+}
+.page1 {
+  position: relative;
+  width: 100%;
+  height: 1169px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}

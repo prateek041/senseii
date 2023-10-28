@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-thistle: #cdc6e9;
+  --color-white: #fff;
+  --color-whitesmoke: #f8f8f8;
+  --color-gray: #0e0e0f;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-31xl: 50px;
+  --br-21xl: 40px;
+  --br-11xs-5: 1.5px;
+}

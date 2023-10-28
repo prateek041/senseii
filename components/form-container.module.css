@@ -1,0 +1,57 @@
+.frame {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  border-radius: var(--br-21xl);
+  border: 22px solid var(--color-white);
+  box-sizing: border-box;
+  width: 419px;
+  height: 856px;
+  overflow: hidden;
+}
+.powerButton,
+.volumeDownButton,
+.volumeUpButton {
+  position: absolute;
+  top: 195px;
+  left: 422px;
+  border-radius: 0 var(--br-11xs-5) var(--br-11xs-5) 0;
+  background-color: var(--color-white);
+  width: 3px;
+  height: 96px;
+}
+.volumeDownButton,
+.volumeUpButton {
+  top: 0;
+  left: 3px;
+  height: 58px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.volumeDownButton {
+  top: 77px;
+}
+.switch,
+.volumeButtons {
+  position: absolute;
+  top: 176px;
+  left: 0;
+  width: 3px;
+  height: 135px;
+}
+.switch {
+  top: 115px;
+  left: 3px;
+  border-radius: 0 var(--br-11xs-5) var(--br-11xs-5) 0;
+  background-color: var(--color-white);
+  height: 29px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.outerFrame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 425px;
+  height: 856px;
+}

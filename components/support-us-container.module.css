@@ -1,0 +1,44 @@
+.supportUsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-whitesmoke);
+  width: 333px;
+  height: 66px;
+}
+.githubIcon,
+.twitterxIcon {
+  position: absolute;
+  top: 11px;
+  left: 244.14px;
+  width: 31.92px;
+  height: 45px;
+  object-fit: cover;
+}
+.twitterxIcon {
+  top: 14px;
+  left: 280.38px;
+  width: 36.23px;
+  height: 42px;
+}
+.supportUs1 {
+  position: absolute;
+  top: 21px;
+  left: 26px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 139px;
+}
+.supportUs {
+  position: absolute;
+  top: 0;
+  left: 592px;
+  width: 333px;
+  height: 66px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
