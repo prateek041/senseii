@@ -1,6 +1,8 @@
 import Header from './components/Header';
 import Introduction from './components/Introduction';
 import Timeline from './components/Timeline';
+import Team from './components/Team';
+import Contact from './components/Contact';
 
 export default function Home() {
   return (
@@ -9,6 +11,8 @@ export default function Home() {
         <Header />
         <Introduction />
         <Timeline />
+        <Team />
+        <Contact />
       </div>
     </main>
   );
