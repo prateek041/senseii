@@ -1,11 +1,11 @@
 import Header from './components/Header';
-import Features from './components/Features';
 
 export default function Home() {
   return (
-    <main className="">
-      <Header />
-      <Features />
+    <main className="bg-white mx-8 mt-8 rounded-t-3xl">
+      <div>
+        <Header />
+      </div>
     </main>
   );
 }
