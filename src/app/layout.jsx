@@ -9,7 +9,9 @@ const lato = Lato({
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${lato.className} bg-[#CDC6E9]`}>{children}</body>
+      <body className={`${lato.className} bg-[#CDC6E9] tracking-wider`}>
+        {children}
+      </body>
     </html>
   );
 }

@@ -3,7 +3,7 @@ import Image from 'next/image';
 export default function Header() {
   return (
     <div className="header-container h-screen pt-10 px-10">
-      <div className="header-internal-container h-full grid grid-cols-6 grid-rows-6 relative">
+      <div className="header-internal-container h-full grid grid-cols-6 grid-rows-6 relative px-5">
         <div className="header-side-image absolute w-full right-0 side-image-bg col-start-5 col-end-7 rounded-tr-3xl mt-5">
           <Image
             src="/side-image.png"
@@ -33,7 +33,7 @@ export default function Header() {
                   alt="design-element"
                 />
               </div>
-              <div className="header-text-content row-start-4 text-6xl font-bold pl-4">
+              <div className="header-text-content row-start-4 text-6xl font-bold">
                 <h2>
                   Personal AI companion, that will help you to be better
                   everyday
