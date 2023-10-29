@@ -1,11 +1,19 @@
 import Header from './components/Header';
-import Features from './components/Features';
+import Introduction from './components/Introduction';
+import Timeline from './components/Timeline';
+import Team from './components/Team';
+import Contact from './components/Contact';
 
 export default function Home() {
   return (
-    <main className="">
-      <Header />
-      <Features />
+    <main className="bg-white mx-8 mt-8 rounded-t-3xl">
+      <div>
+        <Header />
+        <Introduction />
+        <Timeline />
+        <Team />
+        <Contact />
+      </div>
     </main>
   );
 }
