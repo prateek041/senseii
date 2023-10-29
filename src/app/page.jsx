@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import Introduction from './components/Introduction';
+import Timeline from './components/Timeline';
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
       <div>
         <Header />
         <Introduction />
+        <Timeline />
       </div>
     </main>
   );
