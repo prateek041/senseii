@@ -6,6 +6,7 @@
   background-color: var(--color-thistle);
   width: 1900px;
   height: 2337px;
+  padding: 302px;
 }
 .backgroundItem {
   top: 52px;
@@ -32,16 +33,16 @@
 .comingSoonChild {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 221px;
   border-radius: var(--br-31xl);
   background-color: var(--color-black);
-  width: 250px;
+  width: 248px;
   height: 69px;
 }
 .comingSoonItem {
   position: absolute;
   top: 9px;
-  left: 189px;
+  left: 373px;
   border-radius: 50%;
   background-color: var(--color-white);
   width: 50px;
@@ -49,8 +50,8 @@
 }
 .comingSoon1 {
   position: absolute;
-  top: 24px;
-  left: 33px;
+  top: 13px;
+  left: 268px;
   letter-spacing: 0.09em;
   line-height: 104%;
   font-weight: 600;
@@ -58,7 +59,7 @@
 .futureIcon {
   position: absolute;
   top: 18px;
-  left: 199px;
+  left: 382px;
   width: 31px;
   height: 31px;
   object-fit: cover;
@@ -67,13 +68,13 @@
 .sideImageIcon {
   position: absolute;
   top: 766px;
-  left: 123px;
+  left: 104px;
   width: 250px;
   height: 69px;
 }
 .sideImageIcon {
-  top: 164px;
-  left: 1190px;
+  top: 129px;
+  left: 1638px;
   border-radius: 0 var(--br-31xl) var(--br-31xl) 0;
   width: 507px;
   height: 841px;
@@ -82,7 +83,7 @@
 .innerFramePlaceScreenInsi {
   position: absolute;
   top: 6px;
-  left: 9px;
+  left: 543px;
   border-radius: var(--br-21xl);
   width: 407px;
   height: 844px;
@@ -92,7 +93,7 @@
 .sendMessageItem {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 533px;
   border-radius: var(--br-xl);
   background-color: var(--color-white);
   width: 333px;
@@ -100,7 +101,7 @@
 }
 .sendMessageItem {
   top: 7px;
-  left: 291px;
+  left: 810px;
   border-radius: var(--br-31xl);
   background-color: var(--color-thistle);
   width: 34px;
@@ -109,7 +110,7 @@
 .paperPlaneIcon {
   position: absolute;
   top: 11px;
-  left: 297px;
+  left: 818px;
   width: 25px;
   height: 25px;
   object-fit: cover;
@@ -144,3 +145,293 @@
   color: var(--color-white);
   font-family: var(--font-lato);
 }
+
+.page2Child,
+.page2Item {
+  position: absolute;
+  top: 0;
+  height: 1117px;
+}
+.page2Child {
+  left: -90px;
+  background-color: var(--color-thistle);
+  width: 1728px;
+  top: 100px;
+}
+.page2Item {
+  left: 52px;
+  top: 93px;
+  background-color: #fff;
+  width: 1624px;
+}
+.workflowDesignChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 38px;
+  background-color: var(--color-thistle);
+  width: 667px;
+  height: 380px;
+}
+.workflowDesign {
+  position: absolute;
+  top: 559px;
+  left: 123px;
+  width: 667px;
+  height: 497px;
+}
+.lineDiv,
+.stepsLineChild,
+.stepsLineChild1,
+.stepsLineInner,
+.stepsLineItem {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 659px;
+  height: 1px;
+}
+.lineDiv,
+.stepsLineChild1,
+.stepsLineInner,
+.stepsLineItem {
+  top: 159.5px;
+}
+.lineDiv,
+.stepsLineChild1,
+.stepsLineInner {
+  top: 328.5px;
+}
+.lineDiv,
+.stepsLineChild1 {
+  top: 458.5px;
+}
+.stepsLineChild1 {
+  top: 586.5px;
+}
+.askSenseiFor,
+.div,
+.regularUpdates {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 26.58px;
+  height: 18.11px;
+}
+.askSenseiFor,
+.regularUpdates {
+  top: 38px;
+  left: 31px;
+  font-size: var(--font-size-base);
+  width: 341px;
+  height: 37px;
+  mix-blend-mode: normal;
+}
+.regularUpdates {
+  top: 3.77px;
+  left: 30.84px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  width: 355.16px;
+  height: 39.23px;
+}
+.flowStep4 {
+  position: absolute;
+  top: 461px;
+  left: 0;
+  width: 386px;
+  height: 75px;
+}
+.div1,
+.startTheConversation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 26.58px;
+  height: 52.21px;
+}
+.startTheConversation {
+  top: 11px;
+  left: 31px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  width: 363px;
+  height: 24px;
+  mix-blend-mode: normal;
+}
+.flowStep31,
+.senseiWillTake {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 394px;
+  height: 52.21px;
+}
+.senseiWillTake {
+  top: 42px;
+  left: 32px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 341px;
+  height: 37px;
+  mix-blend-mode: normal;
+}
+.flowStep3 {
+  position: absolute;
+  top: 329px;
+  left: 0;
+  width: 394px;
+  height: 79px;
+}
+.div2,
+.shareYourHealth,
+.yourHealthApp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.09em;
+}
+.shareYourHealth,
+.yourHealthApp {
+  top: 75px;
+  left: 36px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 341px;
+  height: 37px;
+  mix-blend-mode: normal;
+}
+.shareYourHealth {
+  top: 12px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  width: 224px;
+  height: 52px;
+}
+.flowStep2 {
+  position: absolute;
+  top: 160px;
+  left: 0;
+  width: 377px;
+  height: 112px;
+}
+.installTheMobile,
+.theAppIs {
+  position: absolute;
+  top: 63px;
+  left: 36px;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 341px;
+  height: 37px;
+  mix-blend-mode: normal;
+}
+.installTheMobile {
+  top: 5px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  width: 224px;
+  height: 52px;
+}
+.div3,
+.flowStep1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div3 {
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.09em;
+}
+.flowStep1 {
+  width: 377px;
+  height: 100px;
+  font-size: var(--font-size-base);
+}
+.steps,
+.stepsLine {
+  position: absolute;
+  top: 23px;
+  left: 17px;
+  width: 394px;
+  height: 536px;
+}
+.stepsLine {
+  top: 366px;
+  left: 1361px;
+  width: 658px;
+  height: 587px;
+}
+.introducing {
+  font-weight: 300;
+}
+.introducingSensei,
+.yourPersonalAiContainer {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  letter-spacing: 0.09em;
+  line-height: 104%;
+  display: inline-block;
+  width: 547px;
+  height: 52px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+}
+.yourPersonalAiContainer {
+  top: 64px;
+  left: 0;
+  width: 670px;
+  height: 57px;
+}
+.introduction {
+  position: absolute;
+  top: 205px;
+  left: 181px;
+  width: 670px;
+  height: 121px;
+  font-size: 50px;
+}
+.logoIcon {
+  position: absolute;
+  top: 115px;
+  left: 167px;
+  width: 186px;
+  height: 66px;
+  object-fit: cover;
+}
+.page2 {
+  position: relative;
+  width: 100%;
+  height: 1117px;
+  top: 1000px;
+  left: 84px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

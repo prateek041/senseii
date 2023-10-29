@@ -13,7 +13,7 @@ const ChatsPageContainer: NextPage = () => {
       </div>
       <div className={styles.chat1}>
         <img className={styles.chatItem} alt="" src="/rectangle-101.svg" />
-        <div className={styles.youHitYour}>How does today look like ?</div>
+        <div className={styles.howDoes}>How does today look like ?</div>
       </div>
       <div className={styles.chat2}>
         <img className={styles.chatInner} alt="" src="/rectangle-102.svg" />

@@ -1,7 +1,17 @@
+.chats-page-container_chatsPage1__AvrBy {
+  left: 531px;
+  width: 341.47px;
+  height: 505px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+
 .chatChild {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 537px;
   border-radius: var(--br-xl);
   width: 235px;
   height: 109px;
@@ -9,7 +19,7 @@
 .youHitYour {
   position: absolute;
   top: 12px;
-  left: 12px;
+  left: 552px;
   letter-spacing: 0.09em;
   font-weight: 600;
   display: inline-block;
@@ -29,34 +39,57 @@
   width: 235px;
   height: 43px;
 }
+
+
+.chats-page-container_todayIsTuesdayContainer__EHhYm {
+  position: absolute;
+  top: 14px;
+  left: 563px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 214px;
+  height: 117px;
+}
+
+.howDoes {
+  right: 25px;
+  position: absolute;
+  top: 7px;
+  /* left: 547px; */
+  letter-spacing: 0.10em;
+  font-weight: 600;
+  display: inline-block;
+  width: 168.47px;
+  height: 44.28px;
+}
+
+
 .chatItem {
   top: 0;
-  left: 0;
+  left: 1px;
   border-radius: var(--br-xl);
 }
 .chat1,
 .chatInner {
   top: 218px;
-  left: 106px;
+  left: 656px;
 }
 .chatInner {
   top: 0;
-  left: 0;
+  left: 550px;
   border-radius: var(--br-xl);
-  height: 223px;
+  height: 250px;
 }
-.todayIsTuesday {
-  margin-block-start: 0;
-  margin-block-end: 36px;
-}
+
 .thenYouCan {
-  margin: 0;
+  margin: 10;
 }
 .hitTheGym,
 .todayIsTuesdayContainer {
   position: absolute;
   top: 14px;
-  left: 12px;
+  left: 558px;
   letter-spacing: 0.09em;
   font-weight: 600;
   display: inline-block;
@@ -64,7 +97,7 @@
   height: 117px;
 }
 .hitTheGym {
-  top: 146px;
+  top: 170px;
   height: 66px;
 }
 .chat2,
@@ -77,6 +110,7 @@
 }
 .rectangleIcon {
   top: 0;
+  left: 533px;
   border-radius: var(--br-xl);
   width: 185px;
   height: 56px;
@@ -84,7 +118,7 @@
 .senseiHowWell {
   position: absolute;
   top: 12px;
-  left: 17px;
+  left: 547px;
   letter-spacing: 0.09em;
   font-weight: 600;
   display: inline-block;

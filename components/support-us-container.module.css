@@ -1,31 +1,31 @@
 .supportUsChild {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 100px;
   border-radius: var(--br-21xl);
-  background-color: var(--color-whitesmoke);
-  width: 333px;
+  background-color: #f2f2f2;
+  width: 332px;
   height: 66px;
 }
 .githubIcon,
 .twitterxIcon {
   position: absolute;
   top: 11px;
-  left: 244.14px;
+  left: 364px;
   width: 31.92px;
   height: 45px;
   object-fit: cover;
 }
 .twitterxIcon {
   top: 14px;
-  left: 280.38px;
+  left: 322.38px;
   width: 36.23px;
   height: 42px;
 }
 .supportUs1 {
   position: absolute;
   top: 21px;
-  left: 26px;
+  left: 126px;
   letter-spacing: 0.09em;
   font-weight: 600;
   display: inline-block;
@@ -34,7 +34,7 @@
 .supportUs {
   position: absolute;
   top: 0;
-  left: 592px;
+  left: 1418px;
   width: 333px;
   height: 66px;
   text-align: left;

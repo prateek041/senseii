@@ -1,7 +1,7 @@
 .frame {
   position: absolute;
-  top: 0;
-  left: 3px;
+  top: 19px;
+  left: 536px;
   border-radius: var(--br-21xl);
   border: 22px solid var(--color-white);
   box-sizing: border-box;
@@ -14,7 +14,7 @@
 .volumeUpButton {
   position: absolute;
   top: 195px;
-  left: 422px;
+  left: 955px;
   border-radius: 0 var(--br-11xs-5) var(--br-11xs-5) 0;
   background-color: var(--color-white);
   width: 3px;
@@ -23,7 +23,7 @@
 .volumeDownButton,
 .volumeUpButton {
   top: 0;
-  left: 3px;
+  left: 536px;
   height: 58px;
   transform: rotate(180deg);
   transform-origin: 0 0;

@@ -1,7 +1,7 @@
 .image3Icon {
   position: absolute;
   top: 221px;
-  left: 0;
+  left: 150px;
   width: 314px;
   height: 99px;
   object-fit: cover;
@@ -12,7 +12,7 @@
 .personalAiCompanionContainer {
   position: absolute;
   top: 311px;
-  left: 18px;
+  left: 136px;
   letter-spacing: 0.09em;
   line-height: 104%;
   font-weight: 600;

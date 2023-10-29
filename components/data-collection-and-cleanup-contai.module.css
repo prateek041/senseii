@@ -1,0 +1,70 @@
+.connectVectorDatabase,
+.dataCollectionAnd,
+.developMobileApplication,
+.fineTuningOnData {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 232px;
+  height: 19px;
+  mix-blend-mode: normal;
+}
+.connectVectorDatabase,
+.developMobileApplication,
+.fineTuningOnData {
+  top: 242px;
+  left: 29px;
+  width: 169px;
+}
+.connectVectorDatabase,
+.developMobileApplication {
+  top: 389px;
+  left: 42px;
+  text-align: center;
+  width: 133px;
+  height: 58px;
+}
+.developMobileApplication {
+  top: 575px;
+  left: 44px;
+  height: 40px;
+}
+.timelineStep1 {
+  position: absolute;
+  top: 0;
+  left: 90px;
+  width: 41px;
+  height: 93px;
+}
+.timeline,
+.timelineStep2,
+.timelineStep3,
+.timelineStep4 {
+  position: absolute;
+  top: 122px;
+  left: 90px;
+  width: 41px;
+  height: 112px;
+}
+.timeline,
+.timelineStep3,
+.timelineStep4 {
+  top: 269px;
+}
+.timeline,
+.timelineStep4 {
+  top: 455px;
+  left: 89px;
+}
+.timeline {
+  top: 251px;
+  left: 1166px;
+  width: 232px;
+  height: 615px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

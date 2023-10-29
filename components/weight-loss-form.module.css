@@ -1,0 +1,110 @@
+.iphone11Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 425px;
+  height: 486px;
+}
+.minimalistBlackBeigeTypograIcon {
+  position: absolute;
+  top: 76px;
+  left: 169px;
+  width: 84px;
+  height: 84px;
+  object-fit: cover;
+}
+.chatChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 235px;
+  height: 60px;
+}
+.yourCurrentWeight {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 214px;
+}
+.chat,
+.chat1,
+.chatInner {
+  position: absolute;
+  top: 70px;
+  left: 9px;
+  width: 235px;
+  height: 60px;
+}
+.chat1,
+.chatInner {
+  top: 153px;
+  left: 126px;
+}
+.chatInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  height: 72px;
+}
+.sureSinceYou {
+  position: absolute;
+  top: 14.4px;
+  left: 12px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 214px;
+  height: 40.8px;
+}
+.chat2,
+.rectangleIcon {
+  position: absolute;
+  top: 235px;
+  left: 0;
+  width: 235px;
+  height: 72px;
+}
+.rectangleIcon {
+  top: 0;
+  border-radius: var(--br-xl);
+  width: 185px;
+  height: 43px;
+}
+.iWantTo1 {
+  position: absolute;
+  top: 12px;
+  left: 9.45px;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  display: inline-block;
+  width: 168.47px;
+}
+.chat3 {
+  position: absolute;
+  top: 0;
+  left: 168px;
+  width: 185px;
+  height: 43px;
+}
+.chatsGroup,
+.workflow {
+  position: absolute;
+  top: 176px;
+  left: 30px;
+  width: 361px;
+  height: 307px;
+}
+.workflow {
+  top: 14px;
+  left: 201px;
+  width: 425px;
+  height: 483px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
