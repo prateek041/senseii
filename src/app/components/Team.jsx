@@ -17,7 +17,7 @@ export default function Team() {
 
 
 
-          <div class="w-full max-w-sm bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
+          <div class="w-64 h-76 bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
     <div class="flex justify-end px-4 pt-4">
 
     </div>
@@ -33,7 +33,7 @@ export default function Team() {
 </div>
 
 
-<div class="w-full max-w-sm bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
+<div class="w-64 h-76 bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
     <div class="flex justify-end px-4 pt-4">
    
     </div>
@@ -50,7 +50,7 @@ export default function Team() {
 
 
 
-<div class="w-full max-w-sm bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
+<div class="w-64 h-76 bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
     <div class="flex justify-end px-4 pt-4">
    
     </div>
