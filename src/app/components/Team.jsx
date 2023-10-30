@@ -8,62 +8,67 @@ export default function Team() {
         <div className="text-4xl">
           We are Engineering Undergrads, help us <b>Building</b> it
         </div>
-        <div className="flex flex-col gap-y-10 items-center w-full">
+        <div className="flex flex-col gap-y-20 items-center w-full">
           <p className="text-4xl">
             Meet the <b> Engineering Team</b>
           </p>
           <div className="flex justify-center items-center w-full">
+
+          
             
 
 
-
-          <div class="w-64 h-76 bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
-    <div class="flex justify-end px-4 pt-4">
-
+          <div class="w-64 h-auto bg-custombg-100 border border-gray-300 rounded-lg shadow-md dark:bg-custombg-100 dark:border-gray-700 transition duration-300 transform hover:-translate-y-2 hover:shadow-lg">
+    <div class="relative">
+        <img class="w-24 h-24 mx-auto -mt-12 rounded-full border-4 border-white shadow-lg" src="prateek1.png" alt="Prateek's Photo" />
     </div>
-    <div class="flex flex-col items-center pb-10">
-        <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="prateek1.png" alt=""/>
-        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-black">Prateek</h5>
-        <span class="text-sm text-gray-500 dark:text-gray-400"></span>
-        <div class="flex mt-4 space-x-5 md:mt-7">
-            {/* <a href="#" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add friend</a> */}
-            <a href="https://www.prateeksingh.tech/" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-gray-700">Contact</a>
-        </div>
-    </div>
-</div>
-
-
-<div class="w-64 h-76 bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
-    <div class="flex justify-end px-4 pt-4">
-   
-    </div>
-    <div class="flex flex-col items-center pb-10">
-        <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="pragya1.png" alt=""/>
-        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-black">Pragya</h5>
-        <span class="text-sm text-gray-500 dark:text-gray-400"></span>
-        <div class="flex mt-4 space-x-3 md:mt-7">
-            {/* <a href="#" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add friend</a> */}
-            <a href="https://itspragya.netlify.app/" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-gray-700">Contact</a>
+    <div class="p-6 text-center">
+        <h5 class="text-xl font-medium text-gray-900 dark:text-black">Prateek</h5>
+        <p class="text-sm text-gray-500 dark:text-gray-400"></p>
+        <div class="flex justify-center mt-4 space-x-5">
+            <a href="https://www.prateeksingh.tech" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-2 dark:focus:ring-offset-2 dark:focus:ring-offset-gray-700 dark:focus:ring-gray-200 transition duration-300 hover:scale-105">
+                Contact
+            </a>
         </div>
     </div>
 </div>
 
 
 
-<div class="w-64 h-76 bg-custombg-100 border border-gray-200 rounded-lg shadow dark:bg-custombg-100 dark:border-gray-700">
-    <div class="flex justify-end px-4 pt-4">
-   
+<div class="w-64 h-auto bg-custombg-100 border border-gray-300 rounded-lg shadow-md dark:bg-custombg-100 dark:border-gray-700 transition duration-300 transform hover:-translate-y-2 hover:shadow-lg">
+    <div class="relative">
+        <img class="w-24 h-24 mx-auto -mt-12 rounded-full border-4 border-white shadow-lg" src="pragya1.png" alt="" />
     </div>
-    <div class="flex flex-col items-center pb-10">
-        <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="lokesh1.png" alt=""/>
-        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-black">Lokesh</h5>
-        <span class="text-sm text-gray-500 dark:text-gray-400"></span>
-        <div class="flex mt-4 space-x-3 md:mt-7">
-            {/* <a href="#" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add friend</a> */}
-            <a href="https://portfolio-lokeshsri11.vercel.app/" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-gray-700">Contact</a>
+    <div class="p-6 text-center">
+        <h5 class="text-xl font-medium text-gray-900 dark:text-black">Pragya</h5>
+        <p class="text-sm text-gray-500 dark:text-gray-400"></p>
+        <div class="flex justify-center mt-4 space-x-5">
+            <a href="https://itspragya.netlify.app/" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-2 dark:focus:ring-offset-2 dark:focus:ring-offset-gray-700 dark:focus:ring-gray-200 transition duration-300 hover:scale-105">
+                Contact
+            </a>
         </div>
     </div>
 </div>
+
+
+
+<div class="w-64 h-auto bg-custombg-100 border border-gray-300 rounded-lg shadow-md dark:bg-custombg-100 dark:border-gray-700 transition duration-300 transform hover:-translate-y-2 hover:shadow-lg">
+    <div class="relative">
+        <img class="w-24 h-24 mx-auto -mt-12 rounded-full border-4 border-white shadow-lg" src="lokesh1.png" alt="" />
+    </div>
+    <div class="p-6 text-center">
+        <h5 class="text-xl font-medium text-gray-900 dark:text-black">Lokesh</h5>
+        <p class="text-sm text-gray-500 dark:text-gray-400"></p>
+        <div class="flex justify-center mt-4 space-x-5">
+            <a href="https://portfolio-lokeshsri11.vercel.app/" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-2 dark:focus:ring-offset-2 dark:focus:ring-offset-gray-700 dark:focus:ring-gray-200 transition duration-300 hover:scale-105">
+                Contact
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
 
 
 
