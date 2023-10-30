@@ -40,7 +40,7 @@ export default function Header() {
                 </h2>
               </div>
               <div className="header-text-content-coming-soon-button">
-                <button className="bg-black text-white w-2/5 mt-5 rounded-3xl py-3 ml-4 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700">
+                <button className="bg-black text-white w-2/5 mt-5 rounded-3xl py-3 ml-4 dark:bg-gray-100 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700">
                   Coming Soon
                 </button>
               </div>
