@@ -40,18 +40,19 @@ export default function Header() {
                 </h2>
               </div>
               <div className="header-text-content-coming-soon-button">
-                <button className="bg-black text-white w-2/5 mt-5 rounded-3xl py-3 ml-4">
+                <button className="bg-black text-white w-2/5 mt-5 rounded-3xl py-3 ml-4 dark:bg-gray-100 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700">
                   Coming Soon
                 </button>
               </div>
             </div>
           </div>
-          <div className="header-phone-image z-40 mr-10">
+          <div className="header-phone-image z-40 mr-10 transition-transform hover:scale-110 transition-opacity hover:opacity-80">
             <Image
               src={'/iphone-11.png'}
               width={300}
               height={300}
               alt="iphone-11-mockup"
+              
             />
           </div>
         </div>
