@@ -9,21 +9,6 @@ export default function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     alert('This needs to implemented');
-
-    // try {
-    //   await fetch(
-    //     'https://docs.google.com/forms/d/e/1FAIpQLSd7dPB0VXxnEqf6NxXEv0l8EdTwMDn7mLm_kwJZrrcnenIVzQ/',
-    //     {
-    //       method: 'POST',
-    //       mode: 'no-cors',
-    //       body: formData,
-    //     }
-    //   );
-
-    //   alert('Form submitted successfully!');
-    // } catch (error) {
-    //   console.error('Error submitting form:', error);
-    // }
   };
   return (
     <div className="bg-[#CDC6E9] flex flex-col gap-y-10 items-center w-full h-full p-10">
