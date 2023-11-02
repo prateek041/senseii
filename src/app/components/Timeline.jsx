@@ -3,11 +3,11 @@ import Card from './Card';
 
 export default function Timeline() {
   return (
-    <div className="timeline-container h-screen px-10">
-      <div className="timeline-content-container flex justify-between items-center px-5">
-        <div className="timeline-content-container-left w-1/2 flex flex-col justify-center gap-y-10 h-3/5">
+    <div className="timeline-container md:h-screen px-5 md:px-10">
+      <div className="timeline-content-container flex flex-col md:flex-row justify-between items-center px-5">
+        <div className="timeline-content-container-left w-full md:w-1/2 flex flex-col justify-center gap-5 md:gap-y-10">
           <div className="timeline-content-container-left-top">
-            <p className="text-4xl">
+            <p className="text-2xl md:text-4xl">
               How we <b>Plan</b> to do it
             </p>
           </div>
@@ -40,7 +40,7 @@ export default function Timeline() {
             />
           </div>
         </div>
-        <div className="timeline-content-container-right  w-1/2 h-full flex flex-col justify-center items-center">
+        <div className="timeline-content-container-right w-full md:w-1/2 h-full flex flex-col justify-center items-center">
           <Image
             src="/timeline.png"
             width={180}

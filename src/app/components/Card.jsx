@@ -5,7 +5,7 @@ export default function Card(props) {
   return (
     <div className="card-container flex flex-col border-t border-black p-5">
       <sup className="text-xl">{sup}</sup>
-      <div className="ml-5 w-2/3">
+      <div className="ml-5 w-full sm:w-2/3"> {/* Adjust the width on small screens */}
         <h1 className="text-2xl font-medium">{main}</h1>
         <h2 className="text-sm ">{secondary}</h2>
       </div>
